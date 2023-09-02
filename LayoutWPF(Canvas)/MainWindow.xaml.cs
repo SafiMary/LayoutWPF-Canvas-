@@ -21,6 +21,7 @@ namespace LayoutWPF_Canvas_
     public partial class MainWindow : Window
     {
         public MainWindow()
+
         {
             InitializeComponent();
         }
